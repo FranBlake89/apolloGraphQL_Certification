@@ -1,4 +1,4 @@
-# apholloGraphQL_odyssey
+# apolloGraphQL_odyssey
 
 🏗️ on construction....🚧
 
