@@ -1,8 +1,8 @@
 # apholloGraphQL_odyssey
 
-🏗️ on construction....
+🏗️ on construction....🚧
 
-public repo for the GraphQl course from Apollo Odyssey  
+Public repo for the GraphQl course from Apollo Odyssey  
 
 
 
