@@ -1,5 +1,9 @@
 # Odyssey Lift-off I: Basics
 
+Developed using React, apollo, graphQL
+
+
+![ScreenShot React App](https://github.com/FranBlake89/apolloGraphQL_Certification/assets/73005797/ed03cf7c-7523-47be-a259-9a9e218fb6e4)
 
 ## How to use this repo
 
