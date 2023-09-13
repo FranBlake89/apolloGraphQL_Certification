@@ -4,6 +4,7 @@
 📈  1/4 done
 
 >**Public repo for the GraphQl course from Apollo Odyssey**
+>
 > source: [Apollo Tutorials](https://www.apollographql.com/tutorials/)
 
 #### 💪 🧾 Preparing me to get the "Graph Developer - Associate" Certification
